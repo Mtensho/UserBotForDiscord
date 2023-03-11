@@ -31,8 +31,6 @@ https://discord.com/developers/applications
 
 ==GPT-2のファインチューニング==
 
-#手元にメモリが12GBを超えるGPUがない場合
-
 1.LINEのトーク履歴をこのディレクトリに配置
 
 2.UserBotをディレクトリごとGoogle Driveにアップロード
