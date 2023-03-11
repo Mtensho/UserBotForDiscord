@@ -1,2 +1,0 @@
-# UserBotForDiscord
-LINEの会話履歴でGPT-2をファインチューニングし、特定の人物の言いそうなことを自動返信してくれるDiscordのBotを作る
