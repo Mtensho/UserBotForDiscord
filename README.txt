@@ -56,6 +56,9 @@ https://pythonlinks.python.jp/ja/index.html
 7.ローカルでBotを起動する場合、以下のライブラリをインストール
 
 #Windowsの場合
+
+コマンドプロンプト上で以下のコードを実行
+
 py -3 -m pip install -U discord.py
 pip install torch
 pip install sentencepiece
